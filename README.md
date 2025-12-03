@@ -1,2 +1,2 @@
 # goit-test
-bu alada yapılan 
+this is first project of mine and its a trial project
